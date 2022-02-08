@@ -1,0 +1,17 @@
+.img_container{
+    width: 80%;
+    height: 70%;
+    margin: 2% auto;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: .5px solid grey;
+}
+
+img:hover {
+    opacity: .5;
+    transition: .8s;
+}
