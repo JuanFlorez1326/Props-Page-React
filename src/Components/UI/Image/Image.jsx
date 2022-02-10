@@ -1,5 +1,5 @@
 import React from 'react';
-import  image  from '../../../Images/classic.jpg'
+import  image  from '../../../Images/fantasy.jpg'
 import './Image.css'; 
 
 

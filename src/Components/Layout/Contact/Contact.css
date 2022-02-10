@@ -1,0 +1,25 @@
+.form {
+    background-color:white;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:3%;
+}
+.formGlobal{
+    background-color:white;
+    text-align:center;
+}
+.divHeader {
+    background-color:rgb(122, 16, 16);
+    padding:20px;
+    color: white;
+}
+form p {
+    margin-top:30px;
+}
+form button {
+    margin-top:50px;
+    width:5%;
+}
+.divForm {
+    width:50%;
+}
