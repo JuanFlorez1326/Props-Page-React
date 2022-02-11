@@ -3,13 +3,14 @@ import {
   Routes,
   Route
 } from "react-router-dom";
+
 import { Page } from "./Components/Page/Page";
 import { Contact } from "./Components/Layout/Contact/Contact";
 import { Header } from "./Components/Layout/Header/Header";
 import { Footer } from "./Components/Layout/Footer/Footer";
 import { About } from "./Components/Layout/About/About";
 
-function App() {
+export default function App() {
   return (
     <BrowserRouter>
       <Header/>
@@ -22,5 +23,4 @@ function App() {
     </BrowserRouter>
   );
 }
-
-export default App;
+// export default App;

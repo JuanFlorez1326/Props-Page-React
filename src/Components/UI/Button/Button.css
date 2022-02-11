@@ -1,14 +1,17 @@
 .button1{
-    margin-top:3%;
+    margin-top:40%;
     padding: 1% 2%;
     border: 1px solid black;
     font-family:sans-serif;
     background-color: rgb(153, 76, 76);
     color:white;
     border-radius:10px;
+    width:100px;
+    height:50px;
 }
 
 .button1:hover {
+    background-color: rgb(97, 51, 51);
     cursor: pointer;
     transform:scale(1.2);
     transition: .2s;
@@ -21,6 +24,9 @@
     background-color: rgb(65, 35, 35);
     color:white;
     border-radius:10px;
+}
+.btnFooter:hover{
+    background-color: rgb(39, 20, 20);
 }
 
 .btnFooter:active {
